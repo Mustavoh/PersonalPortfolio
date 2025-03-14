@@ -143,7 +143,7 @@ export default function Contact() {
                 <div>
                   <h3 className="font-bold mb-2">Email</h3>
                   <p className="text-muted-foreground">
-                    contact@fatimaaldarwish.com
+                    Fatima.Aldarwish2004@gmail.com
                   </p>
                 </div>
               </div>
@@ -151,7 +151,7 @@ export default function Contact() {
                 <Phone className="h-6 w-6 text-primary" />
                 <div>
                   <h3 className="font-bold mb-2">Phone</h3>
-                  <p className="text-muted-foreground">+971 50 123 4567</p>
+                  <p className="text-muted-foreground">+966581440204</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -159,8 +159,8 @@ export default function Contact() {
                 <div>
                   <h3 className="font-bold mb-2">Studio Address</h3>
                   <p className="text-muted-foreground">
-                    Design District<br />
-                    Dubai, United Arab Emirates
+                    AlQatif, C-Front<br />
+                    Saudi Arabia
                   </p>
                 </div>
               </div>

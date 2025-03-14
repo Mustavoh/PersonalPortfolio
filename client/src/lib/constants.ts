@@ -3,19 +3,18 @@ import { type Project, type Service, type Testimonial } from "@shared/schema";
 export const PROJECTS: Project[] = [
   {
     id: 1,
-    title: "Modern Minimalist Living Room",
-    description: "A contemporary living space with clean lines and neutral tones",
-    imageUrl: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4",
-    category: "residential"
+    title: "Cartier-Inspired Luxury Hotel",
+    description: "An opulent hotel design drawing inspiration from Cartier's timeless elegance and sophistication",
+    imageUrl: "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    category: "hospitality"
   },
   {
     id: 2,
-    title: "Luxury Office Suite",
-    description: "Corporate workspace with elegant finishes",
-    imageUrl: "https://images.unsplash.com/photo-1483058712412-4245e9b90334",
+    title: "VR Technology Showcase Booth",
+    description: "Modern exhibition booth design for university tech showcase, focusing on VR experience",
+    imageUrl: "https://images.unsplash.com/photo-1593508512255-86ab42a8e620",
     category: "commercial"
-  },
-  // Add more projects...
+  }
 ];
 
 export const SERVICES: Service[] = [
@@ -31,16 +30,20 @@ export const SERVICES: Service[] = [
     description: "Innovative workspace solutions that enhance productivity",
     icon: "Building2"
   },
-  // Add more services...
+  {
+    id: 3,
+    title: "Hospitality Design",
+    description: "Luxurious and welcoming spaces for hotels and entertainment venues",
+    icon: "Hotel"
+  }
 ];
 
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: 1,
-    name: "Sarah Anderson",
-    role: "Homeowner",
-    content: "Fatima transformed our house into a dream home. Her attention to detail and understanding of our needs was exceptional.",
-    imageUrl: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80"
-  },
-  // Add more testimonials...
+    name: "Mustafa Aljishi",
+    role: "Client",
+    content: "Working with Fatima was an exceptional experience. Her attention to detail and innovative approach transformed our space beyond expectations.",
+    imageUrl: "" // No picture provided
+  }
 ];
