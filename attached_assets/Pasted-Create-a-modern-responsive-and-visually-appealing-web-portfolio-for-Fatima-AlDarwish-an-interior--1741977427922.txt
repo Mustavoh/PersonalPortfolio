@@ -1,0 +1,59 @@
+Create a modern, responsive, and visually appealing web portfolio for Fatima AlDarwish, an interior designer. The portfolio should showcase her expertise, projects, and personality while being easy to navigate. Follow these guidelines:
+
+Design and Layout:
+
+Use a clean, minimalistic design with a professional color palette (e.g., neutral tones with accents of gold or pastel colors).
+
+Include the following sections:
+
+Home: A hero section with her name, a tagline (e.g., 'Transforming Spaces with Elegance and Innovation'), and a high-quality background image or video.
+
+About: A brief bio highlighting her experience, design philosophy, and achievements.
+
+Portfolio: A gallery of her best projects with high-resolution images, project titles, and short descriptions. Use a grid or masonry layout.
+
+Services: A list of services she offers (e.g., residential design, commercial design, 3D rendering, etc.).
+
+Testimonials: Quotes from clients or collaborators.
+
+Contact: A contact form, email address, phone number, and links to her social media profiles (Instagram, LinkedIn, etc.).
+
+Functionality:
+
+Make the website fully responsive for desktop, tablet, and mobile devices.
+
+Include smooth scrolling and subtle animations (e.g., fade-ins, hover effects) to enhance user experience.
+
+Ensure the website is accessible (e.g., alt text for images, keyboard navigation, and high contrast).
+
+Technical Requirements:
+
+Use HTML, CSS, and JavaScript (or a framework like React if preferred).
+
+Place the src folder in the root directory to ensure the project is deployable on any hosting platform (e.g., Netlify, Vercel, GitHub Pages). Do not nest the program inside a client folder.
+
+Include a README.md file with instructions for deployment.
+
+Optimize images and assets for fast loading times.
+
+Additional Features:
+
+Add a dark mode toggle for user preference.
+
+Include a downloadable PDF version of her resume or portfolio.
+
+Integrate a simple blog section where she can share design tips or project updates (optional).
+
+Deployment Readiness:
+
+Ensure all paths are relative and the project is structured to be easily deployable.
+
+Include a .gitignore file and any necessary configuration files (e.g., package.json if using Node.js).
+
+Personalization:
+
+Use placeholder text and images where necessary, but ensure the design is tailored to an interior designer's portfolio.
+
+Add her name, 'Fatima AlDarwish,' prominently throughout the website.
+
+Provide the complete code and file structure in a zip file or shareable format, ready for deployment.
